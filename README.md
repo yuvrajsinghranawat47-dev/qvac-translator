@@ -1,6 +1,6 @@
-# QVAC Offline Translator
+ # QVAC Offline Translator
 
-An offline English → Italian translator built with [Tether's QVAC SDK](https://github.com/tetherto/qvac). All translation runs **100% on-device** — no API key, no server calls, no internet needed after the model downloads once.
+A offline English → Italian translator built with [Tether's QVAC SDK](https://github.com/tetherto/qvac). All translation runs **100% on-device** — no API key, no server calls, no internet needed after the model downloads once.
 
 Built for the [QVAC Hackathon](https://whop.com/townhall) bounty.
 
